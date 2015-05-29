@@ -9,7 +9,7 @@
 	import flash.display.MovieClip;
 	
 	/**
-	 * @author cad_caoliveira
+	 * @author cardevisi
 	 * 
 	 * 	import br.com.casi.events.TrackerEvent;
 	 * 	import br.com.casi.TrackCuePoint;
